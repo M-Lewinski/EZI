@@ -18,6 +18,23 @@ gradle build
 gradle jar
 ```
 
+### Argumenty programu
+Aby wyświetlić pomoc dotyczącą programu, wystarczy uruchomić go z parametrem *-h* lub *--help*.
+```
+Usage: EZI [options]
+  Options:
+  * --document, -d
+      name of a file containing all documents title and body
+    --help, -h
+      Shows program usage
+  * --keywords, -k
+      name of a file containing all the keywords that will be considered while 
+      analyzing documents and querry
+    --verbose, -v
+      Run program in verbose mode. It will print more details than normally
+      Default: false
+```
+
 ### Uruchamianie programu
 Pliki binarne znajdują się w folderze **build**. Do uruchomienia programu **nie** jest wymagane narzędzie Gradle.
 #### Plik jar
@@ -34,7 +51,7 @@ java -cp "classes/java/main/:libs/external/jcommander-1.72.jar" com.lab1.Main -d
 ```
 
 #### Gradle run
-Program można uruchomić również przy użyciu narzędzia gradle. Komendę wykonywana musi być w głównym katalogu projektu.
+Program można uruchomić również przy użyciu narzędzia gradle. Komenda musi być wykonywana w głównym katalogu projektu.
 ```
 gradle run --args="-d src/main/resources/documents.txt -k src/main/resources/keywords.txt -v"
 ```
