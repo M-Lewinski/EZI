@@ -8,39 +8,39 @@ W momencie podania przez użytkownika zapytania, obliczana jest miara cosinusa k
 ### Budowanie
 Program został napisany przy użyciu języka Java oraz wykorzystano narzędzie Gradle do budowania i zarządzania projektem.
 
-####Budowanie projektu przy użyciu narzędzia Gradle:
+#### Budowanie projektu przy użyciu narzędzia Gradle:
 ```
 gradle build
 ```
 
-####Tworzenie pliku jar:
+#### Tworzenie pliku jar:
 ```
 gradle jar
 ```
 
-###Uruchamianie programu
+### Uruchamianie programu
 Pliki binarne znajdują się w folderze **build**. Do uruchomienia programu **nie** jest wymagane narzędzie Gradle.
-####Plik jar
+#### Plik jar
 Program można uruchomić na wiele sposobów. Najłatwiej uruchomić go przy użyciu pliku jar, który znajduje się w folderze **/build/libs**.
 
 ```
 java -jar lab-1.0-SNAPSHOT.jar -d documents.txt -k keywords.txt -v
 ```
 
-####Pliki binarne
+#### Pliki binarne
 Pliki **.class* zbudowanego programu znajdują się w folderze **/build/classes**. Można uruchomić program przy ich użyciu ale należy również dołączyć zewnętrzne biblioteki znajdujące się w folderze **/build/libs/external**. Pliki zawierające treść potrzebną do uruchomienia programu (documents.txt i keywords.txt) znajdują się w folderze **build/resources/main**.
 ```
 java -cp "classes/java/main/:libs/external/jcommander-1.72.jar" com.lab1.Main -d resources/main/documents.txt -k resources/main/keywords.txt -v
 ```
 
-####Gradle run
+#### Gradle run
 Program można uruchomić również przy użyciu narzędzia gradle. Komendę wykonywana musi być w głównym katalogu projektu.
 ```
 gradle run --args="-d src/main/resources/documents.txt -k src/main/resources/keywords.txt -v"
 ```
 
-####IDE
+#### IDE
 W momencie uruchamianie programu przy użyciu IDE należy zwrócić uwagę jakie jest ustawiony katalog roboczy. Zwykle jest to katalog główny projektu.
 
-###Zakończenie programu
+### Zakończenie programu
 Aktualnie program działa w nieskończonej pętli, oczekując na input użytkownika. Aby zakończyć program należy wysłać sygnał np. SIGINT (ctrl+c).
