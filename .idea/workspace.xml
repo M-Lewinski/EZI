@@ -1,7 +1,73 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="f6892d03-0df5-429e-8021-636282d08fd7" name="Default Changelist" comment="" />
+    <list default="true" id="f6892d03-0df5-429e-8021-636282d08fd7" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.gradle/4.8/fileContent/fileContent.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/4.8/fileContent/fileContent.lock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/4.8/fileHashes/fileHashes.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/4.8/fileHashes/fileHashes.bin" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/4.8/fileHashes/fileHashes.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/4.8/fileHashes/fileHashes.lock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/4.8/taskHistory/taskHistory.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/4.8/taskHistory/taskHistory.bin" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/4.8/taskHistory/taskHistory.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/4.8/taskHistory/taskHistory.lock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/buildOutputCleanup/buildOutputCleanup.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/buildOutputCleanup/buildOutputCleanup.lock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/buildOutputCleanup/cache.properties" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/buildOutputCleanup/cache.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/buildOutputCleanup/outputFiles.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/buildOutputCleanup/outputFiles.bin" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build.gradle" beforeDir="false" afterPath="$PROJECT_DIR$/build.gradle" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/classes/java/main/CommandParameters.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/classes/java/main/Document.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/classes/java/main/Querry.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/classes/java/main/Ranking.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/classes/java/main/Stemmer.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/classes/java/main/TfIdf.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/classes/java/main/VectorSpace.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/classes/java/main/VectorTerms.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/classes/java/main/documents.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/classes/java/main/keywords.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/classes/java/main/main.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/docs/javadoc/CommandParameters.html" beforeDir="false" afterPath="$PROJECT_DIR$/build/docs/javadoc/CommandParameters.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/docs/javadoc/Document.html" beforeDir="false" afterPath="$PROJECT_DIR$/build/docs/javadoc/Document.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/docs/javadoc/Querry.html" beforeDir="false" afterPath="$PROJECT_DIR$/build/docs/javadoc/Querry.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/docs/javadoc/Ranking.html" beforeDir="false" afterPath="$PROJECT_DIR$/build/docs/javadoc/Ranking.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/docs/javadoc/TfIdf.html" beforeDir="false" afterPath="$PROJECT_DIR$/build/docs/javadoc/TfIdf.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/docs/javadoc/VectorSpace.html" beforeDir="false" afterPath="$PROJECT_DIR$/build/docs/javadoc/VectorSpace.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/docs/javadoc/VectorTerms.html" beforeDir="false" afterPath="$PROJECT_DIR$/build/docs/javadoc/VectorTerms.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/docs/javadoc/allclasses-frame.html" beforeDir="false" afterPath="$PROJECT_DIR$/build/docs/javadoc/allclasses-frame.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/docs/javadoc/allclasses-noframe.html" beforeDir="false" afterPath="$PROJECT_DIR$/build/docs/javadoc/allclasses-noframe.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/docs/javadoc/constant-values.html" beforeDir="false" afterPath="$PROJECT_DIR$/build/docs/javadoc/constant-values.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/docs/javadoc/deprecated-list.html" beforeDir="false" afterPath="$PROJECT_DIR$/build/docs/javadoc/deprecated-list.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/docs/javadoc/help-doc.html" beforeDir="false" afterPath="$PROJECT_DIR$/build/docs/javadoc/help-doc.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/docs/javadoc/index-all.html" beforeDir="false" afterPath="$PROJECT_DIR$/build/docs/javadoc/index-all.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/docs/javadoc/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/build/docs/javadoc/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/docs/javadoc/main.html" beforeDir="false" afterPath="$PROJECT_DIR$/build/docs/javadoc/main.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/docs/javadoc/member-search-index.js" beforeDir="false" afterPath="$PROJECT_DIR$/build/docs/javadoc/member-search-index.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/docs/javadoc/member-search-index.zip" beforeDir="false" afterPath="$PROJECT_DIR$/build/docs/javadoc/member-search-index.zip" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/docs/javadoc/overview-tree.html" beforeDir="false" afterPath="$PROJECT_DIR$/build/docs/javadoc/overview-tree.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/docs/javadoc/package-frame.html" beforeDir="false" afterPath="$PROJECT_DIR$/build/docs/javadoc/package-frame.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/docs/javadoc/package-summary.html" beforeDir="false" afterPath="$PROJECT_DIR$/build/docs/javadoc/package-summary.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/docs/javadoc/package-tree.html" beforeDir="false" afterPath="$PROJECT_DIR$/build/docs/javadoc/package-tree.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/docs/javadoc/type-search-index.zip" beforeDir="false" afterPath="$PROJECT_DIR$/build/docs/javadoc/type-search-index.zip" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/libs/lab-1.0-SNAPSHOT.jar" beforeDir="false" afterPath="$PROJECT_DIR$/build/libs/lab-1.0-SNAPSHOT.jar" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/tmp/jar/MANIFEST.MF" beforeDir="false" afterPath="$PROJECT_DIR$/build/tmp/jar/MANIFEST.MF" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/documents.txt" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/documents.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/keywords.txt" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/keywords.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/classes/CommandParameters.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/classes/Document.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/classes/Querry.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/classes/Ranking.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/classes/Stemmer.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/classes/TfIdf.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/classes/VectorSpace.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/classes/VectorTerms.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/classes/main.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/CommandParameters.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/lab1/CommandParameters.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/Document.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/lab1/Document.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/Querry.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/lab1/Querry.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/Ranking.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/lab1/Ranking.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/Stemmer.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/lab1/Stemmer.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/TfIdf.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/lab1/TfIdf.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/VectorSpace.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/lab1/VectorSpace.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/VectorTerms.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/lab1/VectorTerms.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/lab1/Main.java" afterDir="false" />
+    </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/.gradle/" />
     <ignored path="$PROJECT_DIR$/build/" />
@@ -61,6 +127,18 @@
               <path>
                 <item name="" type="6a2764b6:ExternalProjectsStructure$RootNode" />
                 <item name="lab" type="f1a62948:ProjectNode" />
+                <item name="Tasks" type="e4a08cd1:TasksNode" />
+                <item name="documentation" type="c8890929:TasksNode$1" />
+              </path>
+              <path>
+                <item name="" type="6a2764b6:ExternalProjectsStructure$RootNode" />
+                <item name="lab" type="f1a62948:ProjectNode" />
+                <item name="Tasks" type="e4a08cd1:TasksNode" />
+                <item name="other" type="c8890929:TasksNode$1" />
+              </path>
+              <path>
+                <item name="" type="6a2764b6:ExternalProjectsStructure$RootNode" />
+                <item name="lab" type="f1a62948:ProjectNode" />
                 <item name="Run Configurations" type="7b0102dc:RunConfigurationsNode" />
               </path>
             </expand>
@@ -75,49 +153,52 @@
       <usages-collector id="statistics.lifecycle.project">
         <counts>
           <entry key="project.open.time.1" value="1" />
-          <entry key="project.opened" value="1" />
+          <entry key="project.open.time.19" value="1" />
+          <entry key="project.opened" value="2" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.open">
         <counts>
-          <entry key="class" value="2" />
-          <entry key="gradle" value="2" />
+          <entry key="class" value="3" />
+          <entry key="gradle" value="4" />
           <entry key="gradlew" value="1" />
-          <entry key="java" value="12" />
-          <entry key="txt" value="1" />
+          <entry key="java" value="13" />
+          <entry key="txt" value="2" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.open">
         <counts>
-          <entry key="CLASS" value="2" />
-          <entry key="Groovy" value="2" />
-          <entry key="JAVA" value="12" />
-          <entry key="PLAIN_TEXT" value="2" />
+          <entry key="CLASS" value="3" />
+          <entry key="Groovy" value="4" />
+          <entry key="JAVA" value="13" />
+          <entry key="PLAIN_TEXT" value="3" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.edit">
         <counts>
-          <entry key="gradle" value="52" />
-          <entry key="java" value="5587" />
+          <entry key="class" value="3" />
+          <entry key="gradle" value="648" />
+          <entry key="java" value="5784" />
           <entry key="txt" value="25" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
-          <entry key="Groovy" value="52" />
-          <entry key="JAVA" value="5587" />
+          <entry key="CLASS" value="3" />
+          <entry key="Groovy" value="648" />
+          <entry key="JAVA" value="5784" />
           <entry key="PLAIN_TEXT" value="25" />
         </counts>
       </usages-collector>
     </session>
   </component>
   <component name="FileEditorManager">
-    <leaf>
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/main/java/VectorSpace.java">
+        <entry file="file://$PROJECT_DIR$/src/main/java/com/lab1/VectorSpace.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="373">
-              <caret line="156" column="29" selection-start-line="156" selection-start-column="29" selection-end-line="156" selection-end-column="29" />
+            <state relative-caret-position="273">
+              <caret line="39" column="4" selection-start-line="39" selection-start-column="4" selection-end-line="39" selection-end-column="4" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -126,92 +207,80 @@
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/Stemmer.java">
+        <entry file="file://$PROJECT_DIR$/src/main/java/com/lab1/Stemmer.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="748">
-              <caret line="425" column="1" selection-start-line="425" selection-start-column="1" selection-end-line="425" selection-end-column="1" />
-              <folding>
-                <element signature="e#0#13424#0" expanded="true" />
-              </folding>
+            <state relative-caret-position="189">
+              <caret line="45" column="6" selection-start-line="45" selection-start-column="6" selection-end-line="45" selection-end-column="6" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/TfIdf.java">
+        <entry file="file://$PROJECT_DIR$/build.gradle">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="45">
-              <caret line="3" column="59" selection-start-line="3" selection-start-column="59" selection-end-line="3" selection-end-column="59" />
+            <state relative-caret-position="603">
+              <caret line="49" selection-start-line="49" selection-end-line="49" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/main.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="390">
-              <caret line="26" column="36" selection-start-line="26" selection-start-column="36" selection-end-line="26" selection-end-column="36" />
-              <folding>
-                <element signature="imports" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/keywords.txt">
+        <entry file="file://$PROJECT_DIR$/settings.gradle">
           <provider selected="true" editor-type-id="text-editor" />
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/Ranking.java">
+        <entry file="file://$PROJECT_DIR$/src/main/java/com/lab1/TfIdf.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="180">
-              <caret line="12" column="56" selection-start-line="12" selection-start-column="56" selection-end-line="12" selection-end-column="56" />
+            <state relative-caret-position="30">
+              <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/VectorTerms.java">
+        <entry file="file://$PROJECT_DIR$/src/main/java/com/lab1/Main.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="375">
-              <caret line="25" column="34" selection-start-line="25" selection-start-column="34" selection-end-line="25" selection-end-column="34" />
+            <state relative-caret-position="543">
+              <caret line="46" column="5" selection-start-line="46" selection-start-column="5" selection-end-line="46" selection-end-column="5" />
               <folding>
                 <element signature="imports" expanded="true" />
-                <element signature="e#126#141#0" expanded="true" />
-                <element signature="e#228#229#0" expanded="true" />
-                <element signature="e#259#260#0" expanded="true" />
-                <element signature="e#309#310#0" expanded="true" />
-                <element signature="e#334#335#0" expanded="true" />
               </folding>
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/Querry.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="15">
-              <caret line="1" column="1" selection-start-line="1" selection-start-column="1" selection-end-line="1" selection-end-column="1" />
-            </state>
-          </provider>
+        <entry file="file://$PROJECT_DIR$/src/main/resources/documents.txt">
+          <provider selected="true" editor-type-id="text-editor" />
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/Document.java">
+        <entry file="file://$PROJECT_DIR$/src/main/java/com/lab1/Ranking.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="30">
-              <caret line="2" selection-start-line="2" selection-end-line="2" />
+              <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/CommandParameters.java">
+        <entry file="file://$PROJECT_DIR$/src/main/java/com/lab1/VectorTerms.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="135">
-              <caret line="9" selection-start-line="9" selection-end-line="9" />
+            <state relative-caret-position="90">
+              <caret line="6" column="13" selection-start-line="6" selection-start-column="13" selection-end-line="6" selection-end-column="13" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/com/lab1/CommandParameters.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="60">
+              <caret line="4" column="13" selection-start-line="4" selection-start-column="13" selection-end-line="4" selection-end-column="13" />
             </state>
           </provider>
         </entry>
@@ -234,6 +303,9 @@
       <find>document</find>
       <find>public</find>
     </findStrings>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="GradleLocalSettings">
     <option name="myGradleHomes">
@@ -302,6 +374,11 @@
                 <option name="name" value="buildEnvironment" />
               </ExternalTaskPojo>
               <ExternalTaskPojo>
+                <option name="description" value="Runs this project as a JVM application" />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$" />
+                <option name="name" value="run" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
                 <option name="description" value="Generates Gradle wrapper files." />
                 <option name="linkedExternalProjectPath" value="$PROJECT_DIR$" />
                 <option name="name" value="wrapper" />
@@ -317,6 +394,11 @@
                 <option name="name" value="javadoc" />
               </ExternalTaskPojo>
               <ExternalTaskPojo>
+                <option name="description" value="Creates OS specific scripts to run the project as a JVM application." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$" />
+                <option name="name" value="startScripts" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
                 <option name="description" value="Assembles a jar archive containing the main classes." />
                 <option name="linkedExternalProjectPath" value="$PROJECT_DIR$" />
                 <option name="name" value="jar" />
@@ -327,6 +409,11 @@
                 <option name="name" value="model" />
               </ExternalTaskPojo>
               <ExternalTaskPojo>
+                <option name="description" value="Installs the project as a distribution as-is." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$" />
+                <option name="name" value="installDist" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
                 <option name="description" value="Processes main resources." />
                 <option name="linkedExternalProjectPath" value="$PROJECT_DIR$" />
                 <option name="name" value="processResources" />
@@ -335,6 +422,11 @@
                 <option name="description" value="Displays the tasks runnable from root project 'lab'." />
                 <option name="linkedExternalProjectPath" value="$PROJECT_DIR$" />
                 <option name="name" value="tasks" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Assembles the main distributions" />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$" />
+                <option name="name" value="assembleDist" />
               </ExternalTaskPojo>
               <ExternalTaskPojo>
                 <option name="description" value="Initializes a new Gradle build." />
@@ -402,6 +494,24 @@
                 <option name="name" value="buildNeeded" />
               </ExternalTaskPojo>
               <ExternalTaskPojo>
+                <option name="description" value="Bundles the project as a distribution." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$" />
+                <option name="name" value="distTar" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$" />
+                <option name="name" value="copyResourcesJar" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$" />
+                <option name="name" value="libs" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Bundles the project as a distribution." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$" />
+                <option name="name" value="distZip" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
                 <option name="description" value="Displays the properties of root project 'lab'." />
                 <option name="linkedExternalProjectPath" value="$PROJECT_DIR$" />
                 <option name="name" value="properties" />
@@ -413,9 +523,9 @@
     </option>
     <option name="modificationStamps">
       <map>
-        <entry key="$PROJECT_DIR$" value="6158980934000" />
+        <entry key="$PROJECT_DIR$" value="6159470148000" />
         <entry key="$PROJECT_DIR$/.gradle" value="0" />
-        <entry key="$PROJECT_DIR$/build.gradle" value="439525472" />
+        <entry key="$PROJECT_DIR$/build.gradle" value="363497314" />
         <entry key="$PROJECT_DIR$/gradle/wrapper/gradle-wrapper.properties" value="2585518924" />
         <entry key="$PROJECT_DIR$/settings.gradle" value="1777624137" />
       </map>
@@ -602,18 +712,20 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/build.gradle" />
         <option value="$PROJECT_DIR$/src/main/java/Querry.java" />
-        <option value="$PROJECT_DIR$/src/main/java/CommandParameters.java" />
         <option value="$PROJECT_DIR$/src/main/java/KeyWord.java" />
         <option value="$PROJECT_DIR$/src/main/java/Terms.java" />
-        <option value="$PROJECT_DIR$/src/main/java/Stemmer.java" />
         <option value="$PROJECT_DIR$/src/main/java/Document.java" />
         <option value="$PROJECT_DIR$/src/main/java/TfIdf.java" />
-        <option value="$PROJECT_DIR$/src/main/java/main.java" />
         <option value="$PROJECT_DIR$/src/main/java/VectorTerms.java" />
         <option value="$PROJECT_DIR$/src/main/java/Ranking.java" />
+        <option value="$PROJECT_DIR$/src/main/java/CommandParameters.java" />
+        <option value="$PROJECT_DIR$/src/main/java/main.java" />
         <option value="$PROJECT_DIR$/src/main/java/VectorSpace.java" />
+        <option value="$PROJECT_DIR$/src/main/java/Stemmer.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/lab1/main.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/lab1/Main.java" />
+        <option value="$PROJECT_DIR$/build.gradle" />
       </list>
     </option>
   </component>
@@ -629,11 +741,14 @@
     <option name="width" value="1924" />
     <option name="height" value="1100" />
   </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectView">
     <navigator proportions="" version="1">
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="Scope" />
+      <pane id="PackagesPane" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -663,7 +778,9 @@
               <item name="lab" type="b2602c69:ProjectViewProjectNode" />
               <item name="EZI" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="test" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="main" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="lab1" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="lab" type="b2602c69:ProjectViewProjectNode" />
@@ -678,14 +795,12 @@
           <select />
         </subPane>
       </pane>
-      <pane id="Scope" />
-      <pane id="PackagesPane" />
     </panes>
   </component>
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1539836676689" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1539996838764" />
     <property name="extract.method.default.visibility" value="private" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
@@ -695,9 +810,9 @@
   </component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/src/main/resources" />
       <recent name="$PROJECT_DIR$" />
       <recent name="$PROJECT_DIR$/src/main/java" />
-      <recent name="$PROJECT_DIR$/src/main/resources" />
     </key>
   </component>
   <component name="RunDashboard">
@@ -712,11 +827,12 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.EZI">
+  <component name="RunManager" selected="Gradle.EZI [build]">
     <configuration name="EZI" type="Application" factoryName="Application">
-      <option name="MAIN_CLASS_NAME" value="main" />
+      <option name="MAIN_CLASS_NAME" value="com.lab1.Main" />
       <module name="lab_main" />
-      <option name="PROGRAM_PARAMETERS" value="-d documents.txt -k keywords.txt -v" />
+      <option name="PROGRAM_PARAMETERS" value="-d src/main/resources/documents.txt -k src/main/resources/keywords.txt -v" />
+      <option name="WORKING_DIRECTORY" value="$MODULE_WORKING_DIR$" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
@@ -733,6 +849,78 @@
         <option name="taskNames">
           <list>
             <option value="build" />
+          </list>
+        </option>
+        <option name="vmOptions" value="" />
+      </ExternalSystemSettings>
+      <method v="2" />
+    </configuration>
+    <configuration name="EZI [copyResources]" type="GradleRunConfiguration" factoryName="Gradle" temporary="true">
+      <ExternalSystemSettings>
+        <option name="executionName" />
+        <option name="externalProjectPath" value="$PROJECT_DIR$" />
+        <option name="externalSystemIdString" value="GRADLE" />
+        <option name="scriptParameters" value="" />
+        <option name="taskDescriptions">
+          <list />
+        </option>
+        <option name="taskNames">
+          <list>
+            <option value="copyResources" />
+          </list>
+        </option>
+        <option name="vmOptions" value="" />
+      </ExternalSystemSettings>
+      <method v="2" />
+    </configuration>
+    <configuration name="EZI [fatJar]" type="GradleRunConfiguration" factoryName="Gradle" temporary="true">
+      <ExternalSystemSettings>
+        <option name="executionName" />
+        <option name="externalProjectPath" value="$PROJECT_DIR$" />
+        <option name="externalSystemIdString" value="GRADLE" />
+        <option name="scriptParameters" value="" />
+        <option name="taskDescriptions">
+          <list />
+        </option>
+        <option name="taskNames">
+          <list>
+            <option value="fatJar" />
+          </list>
+        </option>
+        <option name="vmOptions" value="" />
+      </ExternalSystemSettings>
+      <method v="2" />
+    </configuration>
+    <configuration name="EZI [jar]" type="GradleRunConfiguration" factoryName="Gradle" temporary="true">
+      <ExternalSystemSettings>
+        <option name="executionName" />
+        <option name="externalProjectPath" value="$PROJECT_DIR$" />
+        <option name="externalSystemIdString" value="GRADLE" />
+        <option name="scriptParameters" value="" />
+        <option name="taskDescriptions">
+          <list />
+        </option>
+        <option name="taskNames">
+          <list>
+            <option value="jar" />
+          </list>
+        </option>
+        <option name="vmOptions" value="" />
+      </ExternalSystemSettings>
+      <method v="2" />
+    </configuration>
+    <configuration name="EZI [libs]" type="GradleRunConfiguration" factoryName="Gradle" temporary="true">
+      <ExternalSystemSettings>
+        <option name="executionName" />
+        <option name="externalProjectPath" value="$PROJECT_DIR$" />
+        <option name="externalSystemIdString" value="GRADLE" />
+        <option name="scriptParameters" value="" />
+        <option name="taskDescriptions">
+          <list />
+        </option>
+        <option name="taskNames">
+          <list>
+            <option value="libs" />
           </list>
         </option>
         <option name="vmOptions" value="" />
@@ -777,10 +965,18 @@
       <item itemvalue="Application.EZI" />
       <item itemvalue="Gradle.EZi" />
       <item itemvalue="Gradle.EZI [build]" />
+      <item itemvalue="Gradle.EZI [libs]" />
+      <item itemvalue="Gradle.EZI [jar]" />
+      <item itemvalue="Gradle.EZI [fatJar]" />
+      <item itemvalue="Gradle.EZI [copyResources]" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Gradle.EZI [copyResources]" />
+        <item itemvalue="Gradle.EZI [fatJar]" />
+        <item itemvalue="Gradle.EZI [jar]" />
         <item itemvalue="Gradle.EZI [build]" />
+        <item itemvalue="Gradle.EZI [libs]" />
       </list>
     </recent_temporary>
   </component>
@@ -794,12 +990,13 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1539744733525</updated>
-      <workItem from="1539744735308" duration="27075000" />
+      <workItem from="1539744735308" duration="33058000" />
+      <workItem from="1539982847940" duration="10034000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="27075000" />
+    <option name="totallyTimeSpent" value="43092000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -814,36 +1011,36 @@
     <frame x="-2" y="-18" width="1924" height="1100" extended-state="0" />
     <editor active="true" />
     <layout>
-      <window_info id="Designer" />
-      <window_info id="Image Layers" />
-      <window_info id="UI Designer" />
-      <window_info id="Favorites" side_tool="true" />
-      <window_info id="Capture Tool" />
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.11953042" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.10032017" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
-      <window_info anchor="bottom" id="Build" weight="0.3238289" />
-      <window_info anchor="bottom" id="Terminal" weight="0.32892057" />
-      <window_info anchor="bottom" id="Event Log" side_tool="true" />
-      <window_info anchor="bottom" id="Database Changes" show_stripe_button="false" />
-      <window_info anchor="bottom" id="Version Control" show_stripe_button="false" />
-      <window_info anchor="bottom" id="Messages" />
+      <window_info id="Designer" order="2" />
+      <window_info id="Image Layers" order="3" />
+      <window_info id="UI Designer" order="4" />
+      <window_info id="Favorites" order="5" side_tool="true" />
+      <window_info id="Capture Tool" order="6" />
       <window_info anchor="bottom" id="Message" order="0" />
-      <window_info anchor="bottom" id="Find" order="1" />
-      <window_info anchor="bottom" id="Run" order="2" visible="true" weight="0.31771895" />
+      <window_info anchor="bottom" id="Find" order="1" weight="0.32903227" />
+      <window_info anchor="bottom" id="Run" order="2" visible="true" weight="0.24923392" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.398167" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
-      <window_info anchor="bottom" id="TODO" order="6" weight="0.3299389" />
-      <window_info anchor="right" id="Palette" />
-      <window_info anchor="right" id="Capture Analysis" />
-      <window_info anchor="right" id="Database" />
-      <window_info anchor="right" id="Maven Projects" />
-      <window_info anchor="right" id="Gradle" visible="true" weight="0.32977587" />
-      <window_info anchor="right" id="Palette&#9;" />
-      <window_info anchor="right" id="Theme Preview" />
+      <window_info anchor="bottom" id="TODO" order="6" weight="0.32944915" />
+      <window_info anchor="bottom" id="Build" order="7" weight="0.26800847" />
+      <window_info anchor="bottom" id="Event Log" order="8" side_tool="true" />
+      <window_info anchor="bottom" id="Messages" order="9" />
+      <window_info anchor="bottom" id="Database Changes" order="10" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Version Control" order="11" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Terminal" order="12" weight="0.31664965" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="Palette" order="3" />
+      <window_info anchor="right" id="Capture Analysis" order="4" />
+      <window_info anchor="right" id="Maven Projects" order="5" />
+      <window_info anchor="right" id="Gradle" order="6" visible="true" weight="0.1755603" />
+      <window_info anchor="right" id="Database" order="7" />
+      <window_info anchor="right" id="Palette&#9;" order="8" />
+      <window_info anchor="right" id="Theme Preview" order="9" />
     </layout>
     <layout-to-restore>
       <window_info id="Image Layers" order="0" />
@@ -883,18 +1080,6 @@
   <component name="VcsContentAnnotationSettings">
     <option name="myLimit" value="2678400000" />
   </component>
-  <component name="XDebuggerManager">
-    <breakpoint-manager>
-      <breakpoints>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/main/java/VectorSpace.java</url>
-          <line>150</line>
-          <properties />
-          <option name="timeStamp" value="6" />
-        </line-breakpoint>
-      </breakpoints>
-    </breakpoint-manager>
-  </component>
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/gradlew">
       <provider selected="true" editor-type-id="text-editor" />
@@ -913,90 +1098,95 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/build.gradle">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="255">
-          <caret line="17" selection-start-line="17" selection-end-line="17" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/keywords.txt">
+    <entry file="file://$PROJECT_DIR$/src/main/resources/keywords.txt">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/main.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="390">
-          <caret line="26" column="36" selection-start-line="26" selection-start-column="36" selection-end-line="26" selection-end-column="36" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/Document.java">
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/lab1/Document.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="30">
-          <caret line="2" selection-start-line="2" selection-end-line="2" />
+          <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/Querry.java">
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/lab1/Querry.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="15">
-          <caret line="1" column="1" selection-start-line="1" selection-start-column="1" selection-end-line="1" selection-end-column="1" />
+        <state relative-caret-position="30">
+          <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/CommandParameters.java">
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/lab1/Ranking.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="135">
-          <caret line="9" selection-start-line="9" selection-end-line="9" />
+        <state relative-caret-position="30">
+          <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/Ranking.java">
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/lab1/TfIdf.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="180">
-          <caret line="12" column="56" selection-start-line="12" selection-start-column="56" selection-end-line="12" selection-end-column="56" />
+        <state relative-caret-position="30">
+          <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/TfIdf.java">
+    <entry file="jrt:///usr/lib/jvm/java-10-openjdk!/java.base/jdk/internal/loader/BuiltinClassLoader.class">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="45">
-          <caret line="3" column="59" selection-start-line="3" selection-start-column="59" selection-end-line="3" selection-end-column="59" />
+        <state relative-caret-position="201">
+          <caret line="356" selection-start-line="356" selection-end-line="356" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/Stemmer.java">
+    <entry file="file://$PROJECT_DIR$/src/main/resources/documents.txt">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/lab1/CommandParameters.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="748">
-          <caret line="425" column="1" selection-start-line="425" selection-start-column="1" selection-end-line="425" selection-end-column="1" />
-          <folding>
-            <element signature="e#0#13424#0" expanded="true" />
-          </folding>
+        <state relative-caret-position="60">
+          <caret line="4" column="13" selection-start-line="4" selection-start-column="13" selection-end-line="4" selection-end-column="13" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/VectorTerms.java">
+    <entry file="file://$PROJECT_DIR$/settings.gradle">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/lab1/VectorTerms.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="375">
-          <caret line="25" column="34" selection-start-line="25" selection-start-column="34" selection-end-line="25" selection-end-column="34" />
+        <state relative-caret-position="90">
+          <caret line="6" column="13" selection-start-line="6" selection-start-column="13" selection-end-line="6" selection-end-column="13" />
           <folding>
             <element signature="imports" expanded="true" />
-            <element signature="e#126#141#0" expanded="true" />
-            <element signature="e#228#229#0" expanded="true" />
-            <element signature="e#259#260#0" expanded="true" />
-            <element signature="e#309#310#0" expanded="true" />
-            <element signature="e#334#335#0" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/VectorSpace.java">
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/lab1/Stemmer.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="373">
-          <caret line="156" column="29" selection-start-line="156" selection-start-column="29" selection-end-line="156" selection-end-column="29" />
+        <state relative-caret-position="189">
+          <caret line="45" column="6" selection-start-line="45" selection-start-column="6" selection-end-line="45" selection-end-column="6" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/build.gradle">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="603">
+          <caret line="49" selection-start-line="49" selection-end-line="49" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/lab1/Main.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="543">
+          <caret line="46" column="5" selection-start-line="46" selection-start-column="5" selection-end-line="46" selection-end-column="5" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/lab1/VectorSpace.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="273">
+          <caret line="39" column="4" selection-start-line="39" selection-start-column="4" selection-end-line="39" selection-end-column="4" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
