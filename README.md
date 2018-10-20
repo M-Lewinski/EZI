@@ -19,7 +19,7 @@ gradle jar
 ```
 
 ###Uruchamianie programu
-Pliki binarne znajdują się w folderze **build**.
+Pliki binarne znajdują się w folderze **build**. Do uruchomienia programu **nie** jest wymagane narzędzie Gradle.
 ####Plik jar
 Program można uruchomić na wiele sposobów. Najłatwiej uruchomić go przy użyciu pliku jar, który znajduje się w folderze **/build/libs**.
 
