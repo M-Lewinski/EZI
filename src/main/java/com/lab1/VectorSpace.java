@@ -11,6 +11,9 @@ public class VectorSpace {
     public Map<String,Double> idfTerms = new HashMap<>();
     private Stemmer stemmer = new Stemmer();
     CommandParameters commandParameters;
+    private double alpha = 1.0;
+    private double beta = 0.75;
+    private double gamma  = 0.25;
 
     public VectorSpace(CommandParameters commandParameters) {
         this.commandParameters = commandParameters;
@@ -54,7 +57,7 @@ public class VectorSpace {
                     document = new Document();
                     continue;
                 }
-                calculateTf(line, document);
+                calculateBagOfWordsAndTf(line, document);
                 document.stemmedText.append("\n");
                 i++;
             }
@@ -64,9 +67,10 @@ public class VectorSpace {
                 if (commandParameters.verbose){
                     System.out.println(doc.title);
                     System.out.printf(doc.stemmedText.toString());
-                    doc.tf.termsValue.forEach((k,v) -> System.out.printf("%s: %g, ",k,v));
+                    doc.bagOfWords.termsValue.forEach((k,v) -> System.out.printf("%s: %g, ",k,v));
                     System.out.println("\n");
                 }
+
                 doc.tf.normalize();
             }
         }
@@ -76,13 +80,15 @@ public class VectorSpace {
         }
     }
 
-    private void calculateTf(String line, TfIdf tfIdf) {
+    private void calculateBagOfWordsAndTf(String line, TfIdf tfIdf) {
         String[] words = line.split(" ");
         for (String word: words) {
             String term = wordToTerm(word);
             if (this.keywords.contains(term)){
                 double value = tfIdf.tf.get(term);
-                tfIdf.tf.put(term,value+1);
+                value++;
+                tfIdf.tf.put(term,value);
+                tfIdf.bagOfWords.put(term,value);
             }
             tfIdf.stemmedText.append(term).append(" ");
         }
@@ -142,19 +148,9 @@ public class VectorSpace {
     }
 
 
-    public List<Ranking> querryExecution(String querryString){
-        Querry querry = new Querry();
-        calculateTf(querryString,querry);
-        if (commandParameters.verbose){
-            System.out.println("com.lab1.Querry stemmed");
-            System.out.println(querry.stemmedText.toString());
-            querry.tf.termsValue.forEach((k,v) -> System.out.printf("%s: %g, ",k,v));
-        }
-        System.out.println();
+    public List<Ranking> querryExecution(Querry querry){
         querry.tf.normalize();
         calculateIdf(querry);
-
-
         List<Ranking> rankingList = new ArrayList<>();
         for (Document doc: this.documents) {
             double sim = calculateSim(querry.idf,doc.idf);
@@ -167,5 +163,53 @@ public class VectorSpace {
         return rankingList;
     }
 
+    public Querry convertStringToQuerry(String querryString) {
+        Querry querry = new Querry();
+        calculateBagOfWordsAndTf(querryString,querry);
+        if (commandParameters.verbose){
+            System.out.println("com.lab1.Querry stemmed");
+            System.out.println(querry.stemmedText.toString());
+            querry.tf.termsValue.forEach((k,v) -> System.out.printf("%s: %g, ",k,v));
+        }
+        System.out.println();
+        return querry;
+    }
+
+
+    public VectorTerms rochio(VectorTerms query, Map<Document,Boolean> feedback) {
+        VectorTerms result = new VectorTerms();
+        for (String term: keywords) {
+            double queryValue = query.get(term);
+            double sumRelevant = 0.0;
+            double relevantCount = 0.0;
+            double nonRelevantCount = 0.0;
+            double sumNonRelevant = 0.0;
+            double finalValue;
+            for (Map.Entry<Document, Boolean> docEntry:  feedback.entrySet()) {
+                Document doc = docEntry.getKey();
+                Boolean feed = docEntry.getValue();
+                if (feed){
+                    sumRelevant += doc.bagOfWords.get(term);
+                    relevantCount++;
+                }
+                else{
+                    sumNonRelevant += doc.bagOfWords.get(term);
+                    nonRelevantCount++;
+                }
+            }
+            sumRelevant /= relevantCount;
+            sumNonRelevant /= nonRelevantCount;
+            finalValue = alpha*queryValue + beta*sumRelevant - gamma*sumNonRelevant;
+            result.put(term,finalValue);
+        }
+        if (commandParameters.verbose){
+            System.out.println("Feedback q':");
+            result.termsValue.forEach((k,v) ->  {
+                if (v > 0.0) System.out.printf("%s: %g, ",k,v);
+            });
+            System.out.println();
+        }
+        return result;
+    }
 }
 
