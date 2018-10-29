@@ -197,8 +197,14 @@ public class VectorSpace {
                     nonRelevantCount++;
                 }
             }
-            sumRelevant /= relevantCount;
-            sumNonRelevant /= nonRelevantCount;
+            sumRelevant = 0.0;
+            if (relevantCount > 0.0){
+                sumRelevant /= relevantCount;
+            }
+            nonRelevantCount = 0.0;
+            if (nonRelevantCount > 0.0){
+                sumNonRelevant /= nonRelevantCount;
+            }
             finalValue = alpha*queryValue + beta*sumRelevant - gamma*sumNonRelevant;
             result.put(term,finalValue);
         }
