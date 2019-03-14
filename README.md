@@ -1,4 +1,4 @@
-#Ranking dokumentów przy użyciu TF-IDF
+# Ranking dokumentów przy użyciu TF-IDF
 Program na podstawie podanego zapytania wyszukuje dokumenty, które pasują do termów zawartych w zapytaniu.
 Dokumenty są sortowane od najbardziej odpowiedniego do najmniej. Dokumenty, które nie pasują do zapytania (miara równa 0) nie są wyświetlane.
 Program wczytuje słowa kluczowe oraz dokumenty z plików. Następnie wszystkie słowa zostają poddane stemmingowi oraz obliczane są wszystkie wartość TF i IDF.
