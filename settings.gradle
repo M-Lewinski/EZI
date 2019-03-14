@@ -1,2 +1,3 @@
-rootProject.name = 'lab'
+rootProject.name = 'EZI'
 
+include "TfIdf"

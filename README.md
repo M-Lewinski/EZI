@@ -1,9 +1,9 @@
-# EZI - laboratorium
-## 1. Ranking dokumentów przy użyciu TF-IDF
+#Ranking dokumentów przy użyciu TF-IDF
 Program na podstawie podanego zapytania wyszukuje dokumenty, które pasują do termów zawartych w zapytaniu.
 Dokumenty są sortowane od najbardziej odpowiedniego do najmniej. Dokumenty, które nie pasują do zapytania (miara równa 0) nie są wyświetlane.
 Program wczytuje słowa kluczowe oraz dokumenty z plików. Następnie wszystkie słowa zostają poddane stemmingowi oraz obliczane są wszystkie wartość TF i IDF.
-W momencie podania przez użytkownika zapytania, obliczana jest miara cosinusa kata (sim).
+W momencie podania przez użytkownika zapytania, obliczana jest miara cosinusa kąta (sim). Na podstawie miary kąta tworzony jest ranking najbardziej pasujących dokumentów do zapytania.
+Możliwe jest wykorzystanie metody Rocchio do uaktualnienia wektora zapytania za pomocą liniowej kombinacji poprzednich zapytań oraz feedbacku użytkownika.
 
 ### Budowanie
 Program został napisany przy użyciu języka Java oraz wykorzystano narzędzie Gradle do budowania i zarządzania projektem.
@@ -47,7 +47,7 @@ java -jar lab-1.0-SNAPSHOT.jar -d documents.txt -k keywords.txt -v
 #### Pliki binarne
 Pliki **.class* zbudowanego programu znajdują się w folderze **/build/classes**. Można uruchomić program przy ich użyciu ale należy również dołączyć zewnętrzne biblioteki znajdujące się w folderze **/build/libs/external**. Pliki zawierające treść potrzebną do uruchomienia programu (documents.txt i keywords.txt) znajdują się w folderze **build/resources/main**.
 ```
-java -cp "classes/java/main/:libs/external/jcommander-1.72.jar" com.lab1.Main -d resources/main/documents.txt -k resources/main/keywords.txt -v
+java -cp "classes/java/main/:libs/external/jcommander-1.72.jar" com.tfidf.Main -d resources/main/documents.txt -k resources/main/keywords.txt -v
 ```
 
 #### Gradle run

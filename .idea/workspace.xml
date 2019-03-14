@@ -2,23 +2,129 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="f6892d03-0df5-429e-8021-636282d08fd7" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.gradle/4.8/fileContent/fileContent.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/4.8/fileContent/fileContent.lock" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.gradle/4.8/fileHashes/fileHashes.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/4.8/fileHashes/fileHashes.bin" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.gradle/4.8/fileHashes/fileHashes.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/4.8/fileHashes/fileHashes.lock" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.gradle/4.8/taskHistory/taskHistory.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/4.8/taskHistory/taskHistory.bin" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.gradle/4.8/taskHistory/taskHistory.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/4.8/taskHistory/taskHistory.lock" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.gradle/buildOutputCleanup/buildOutputCleanup.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/buildOutputCleanup/buildOutputCleanup.lock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/gradle.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/gradle.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/classes/java/main/com/lab1/VectorSpace.class" beforeDir="false" afterPath="$PROJECT_DIR$/build/classes/java/main/com/lab1/VectorSpace.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/distributions/lab-1.0-SNAPSHOT.tar" beforeDir="false" afterPath="$PROJECT_DIR$/build/distributions/lab-1.0-SNAPSHOT.tar" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/distributions/lab-1.0-SNAPSHOT.zip" beforeDir="false" afterPath="$PROJECT_DIR$/build/distributions/lab-1.0-SNAPSHOT.zip" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/libs/lab-1.0-SNAPSHOT.jar" beforeDir="false" afterPath="$PROJECT_DIR$/build/libs/lab-1.0-SNAPSHOT.jar" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/classes/com/lab1/VectorSpace.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/classes/com/lab1/VectorSpace.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/lab1/VectorSpace.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/lab1/VectorSpace.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build.gradle" beforeDir="false" afterPath="$PROJECT_DIR$/build.gradle" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/classes/java/main/com/lab1/CommandParameters.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/classes/java/main/com/lab1/Document.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/classes/java/main/com/lab1/Main.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/classes/java/main/com/lab1/Querry.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/classes/java/main/com/lab1/Ranking.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/classes/java/main/com/lab1/Stemmer.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/classes/java/main/com/lab1/TfIdf.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/classes/java/main/com/lab1/VectorSpace.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/classes/java/main/com/lab1/VectorTerms.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/distributions/lab-1.0-SNAPSHOT.tar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/distributions/lab-1.0-SNAPSHOT.zip" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/docs/javadoc/CommandParameters.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/docs/javadoc/Document.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/docs/javadoc/Querry.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/docs/javadoc/Ranking.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/docs/javadoc/TfIdf.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/docs/javadoc/VectorSpace.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/docs/javadoc/VectorTerms.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/docs/javadoc/allclasses-frame.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/docs/javadoc/allclasses-noframe.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/docs/javadoc/constant-values.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/docs/javadoc/deprecated-list.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/docs/javadoc/element-list" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/docs/javadoc/help-doc.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/docs/javadoc/index-all.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/docs/javadoc/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/docs/javadoc/jquery/external/jquery/jquery.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/docs/javadoc/jquery/images/ui-bg_flat_0_aaaaaa_40x100.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/docs/javadoc/jquery/images/ui-bg_flat_75_ffffff_40x100.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/docs/javadoc/jquery/images/ui-bg_glass_55_fbf9ee_1x400.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/docs/javadoc/jquery/images/ui-bg_glass_65_ffffff_1x400.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/docs/javadoc/jquery/images/ui-bg_glass_75_dadada_1x400.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/docs/javadoc/jquery/images/ui-bg_glass_75_e6e6e6_1x400.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/docs/javadoc/jquery/images/ui-bg_glass_95_fef1ec_1x400.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/docs/javadoc/jquery/images/ui-bg_highlight-soft_75_cccccc_1x100.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/docs/javadoc/jquery/images/ui-icons_222222_256x240.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/docs/javadoc/jquery/images/ui-icons_2e83ff_256x240.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/docs/javadoc/jquery/images/ui-icons_454545_256x240.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/docs/javadoc/jquery/images/ui-icons_888888_256x240.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/docs/javadoc/jquery/images/ui-icons_cd0a0a_256x240.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/docs/javadoc/jquery/jquery-1.10.2.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/docs/javadoc/jquery/jquery-ui.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/docs/javadoc/jquery/jquery-ui.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/docs/javadoc/jquery/jquery-ui.min.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/docs/javadoc/jquery/jquery-ui.min.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/docs/javadoc/jquery/jquery-ui.structure.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/docs/javadoc/jquery/jquery-ui.structure.min.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/docs/javadoc/jquery/jszip-utils/dist/jszip-utils-ie.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/docs/javadoc/jquery/jszip-utils/dist/jszip-utils-ie.min.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/docs/javadoc/jquery/jszip-utils/dist/jszip-utils.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/docs/javadoc/jquery/jszip-utils/dist/jszip-utils.min.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/docs/javadoc/jquery/jszip/dist/jszip.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/docs/javadoc/jquery/jszip/dist/jszip.min.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/docs/javadoc/main.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/docs/javadoc/member-search-index.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/docs/javadoc/member-search-index.zip" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/docs/javadoc/overview-tree.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/docs/javadoc/package-frame.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/docs/javadoc/package-summary.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/docs/javadoc/package-tree.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/docs/javadoc/resources/glass.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/docs/javadoc/resources/x.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/docs/javadoc/script.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/docs/javadoc/search.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/docs/javadoc/stylesheet.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/docs/javadoc/type-search-index.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/docs/javadoc/type-search-index.zip" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/libs/documents.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/libs/external/jcommander-1.72.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/libs/keywords.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/libs/lab-1.0-SNAPSHOT.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/resources/main/documents.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/resources/main/keywords.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/scripts/lab" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/scripts/lab.bat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/tmp/fatJar/MANIFEST.MF" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/tmp/jar/MANIFEST.MF" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/tmp/javadoc/javadoc.options" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/classes/com/lab1/CommandParameters.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/classes/com/lab1/Document.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/classes/com/lab1/Main.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/classes/com/lab1/Querry.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/classes/com/lab1/Ranking.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/classes/com/lab1/Stemmer.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/classes/com/lab1/TfIdf.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/classes/com/lab1/VectorSpace.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/classes/com/lab1/VectorTerms.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/resources/documents.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/resources/keywords.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/settings.gradle" beforeDir="false" afterPath="$PROJECT_DIR$/settings.gradle" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/lab1/CommandParameters.java" beforeDir="false" afterPath="$PROJECT_DIR$/TfIdf/src/main/java/com/tfidf/CommandParameters.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/lab1/Document.java" beforeDir="false" afterPath="$PROJECT_DIR$/TfIdf/src/main/java/com/tfidf/Document.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/lab1/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/TfIdf/src/main/java/com/tfidf/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/lab1/Querry.java" beforeDir="false" afterPath="$PROJECT_DIR$/TfIdf/src/main/java/com/tfidf/Querry.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/lab1/Ranking.java" beforeDir="false" afterPath="$PROJECT_DIR$/TfIdf/src/main/java/com/tfidf/Ranking.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/lab1/Stemmer.java" beforeDir="false" afterPath="$PROJECT_DIR$/TfIdf/src/main/java/com/tfidf/Stemmer.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/lab1/TfIdf.java" beforeDir="false" afterPath="$PROJECT_DIR$/TfIdf/src/main/java/com/tfidf/TfIdf.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/lab1/VectorSpace.java" beforeDir="false" afterPath="$PROJECT_DIR$/TfIdf/src/main/java/com/tfidf/VectorSpace.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/lab1/VectorTerms.java" beforeDir="false" afterPath="$PROJECT_DIR$/TfIdf/src/main/java/com/tfidf/VectorTerms.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/documents.txt" beforeDir="false" afterPath="$PROJECT_DIR$/TfIdf/src/main/resources/documents.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/keywords.txt" beforeDir="false" afterPath="$PROJECT_DIR$/TfIdf/src/main/resources/keywords.txt" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/.gradle/" />
     <ignored path="$PROJECT_DIR$/build/" />
+    <ignored path="$PROJECT_DIR$/TfIdl/.gradle/" />
+    <ignored path="$PROJECT_DIR$/TfIdl/build/" />
+    <ignored path="$PROJECT_DIR$/TfIdf/.gradle/" />
+    <ignored path="$PROJECT_DIR$/TfIdf/build/" />
+    <ignored path="$PROJECT_DIR$/TfId/.gradle/" />
+    <ignored path="$PROJECT_DIR$/TfId/build/" />
+    <ignored path="$PROJECT_DIR$/Lsi/.gradle/" />
+    <ignored path="$PROJECT_DIR$/Lsi/build/" />
+    <ignored path="$PROJECT_DIR$/LSI/.gradle/" />
+    <ignored path="$PROJECT_DIR$/LSI/build/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -36,58 +142,33 @@
         <task path="$PROJECT_DIR$">
           <activation />
         </task>
+        <task path="$PROJECT_DIR$/LSI">
+          <activation />
+        </task>
         <projects_view>
           <tree_state>
             <expand>
               <path>
                 <item name="" type="6a2764b6:ExternalProjectsStructure$RootNode" />
-                <item name="lab" type="f1a62948:ProjectNode" />
+                <item name="EZI" type="f1a62948:ProjectNode" />
               </path>
               <path>
                 <item name="" type="6a2764b6:ExternalProjectsStructure$RootNode" />
-                <item name="lab" type="f1a62948:ProjectNode" />
-                <item name="Source Sets" type="e897c970:GradleViewContributor$SourceSetsNode" />
+                <item name="EZI" type="f1a62948:ProjectNode" />
+                <item name="EZI" type="2d1252cf:ModuleNode" />
               </path>
               <path>
                 <item name="" type="6a2764b6:ExternalProjectsStructure$RootNode" />
-                <item name="lab" type="f1a62948:ProjectNode" />
-                <item name="Source Sets" type="e897c970:GradleViewContributor$SourceSetsNode" />
-                <item name="main" type="396b929e:GradleViewContributor$SourceSetNode" />
-              </path>
-              <path>
-                <item name="" type="6a2764b6:ExternalProjectsStructure$RootNode" />
-                <item name="lab" type="f1a62948:ProjectNode" />
-                <item name="Source Sets" type="e897c970:GradleViewContributor$SourceSetsNode" />
-                <item name="main" type="396b929e:GradleViewContributor$SourceSetNode" />
-                <item name="Dependencies" type="6de06a37:ExternalSystemViewDefaultContributor$MyDependenciesNode" />
-              </path>
-              <path>
-                <item name="" type="6a2764b6:ExternalProjectsStructure$RootNode" />
-                <item name="lab" type="f1a62948:ProjectNode" />
+                <item name="EZI" type="f1a62948:ProjectNode" />
+                <item name="EZI" type="2d1252cf:ModuleNode" />
                 <item name="Tasks" type="e4a08cd1:TasksNode" />
               </path>
               <path>
                 <item name="" type="6a2764b6:ExternalProjectsStructure$RootNode" />
-                <item name="lab" type="f1a62948:ProjectNode" />
+                <item name="EZI" type="f1a62948:ProjectNode" />
+                <item name="EZI" type="2d1252cf:ModuleNode" />
                 <item name="Tasks" type="e4a08cd1:TasksNode" />
                 <item name="build" type="c8890929:TasksNode$1" />
-              </path>
-              <path>
-                <item name="" type="6a2764b6:ExternalProjectsStructure$RootNode" />
-                <item name="lab" type="f1a62948:ProjectNode" />
-                <item name="Tasks" type="e4a08cd1:TasksNode" />
-                <item name="documentation" type="c8890929:TasksNode$1" />
-              </path>
-              <path>
-                <item name="" type="6a2764b6:ExternalProjectsStructure$RootNode" />
-                <item name="lab" type="f1a62948:ProjectNode" />
-                <item name="Tasks" type="e4a08cd1:TasksNode" />
-                <item name="other" type="c8890929:TasksNode$1" />
-              </path>
-              <path>
-                <item name="" type="6a2764b6:ExternalProjectsStructure$RootNode" />
-                <item name="lab" type="f1a62948:ProjectNode" />
-                <item name="Run Configurations" type="7b0102dc:RunConfigurationsNode" />
               </path>
             </expand>
             <select />
@@ -100,18 +181,23 @@
     <session id="1417212194">
       <usages-collector id="statistics.lifecycle.project">
         <counts>
-          <entry key="project.closed" value="1" />
+          <entry key="project.closed" value="6" />
           <entry key="project.open.time.1" value="1" />
+          <entry key="project.open.time.18" value="1" />
           <entry key="project.open.time.19" value="2" />
           <entry key="project.open.time.20" value="1" />
-          <entry key="project.opened" value="4" />
+          <entry key="project.open.time.21" value="1" />
+          <entry key="project.open.time.24" value="1" />
+          <entry key="project.open.time.4" value="1" />
+          <entry key="project.opened" value="8" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.open">
         <counts>
           <entry key="class" value="3" />
-          <entry key="gradle" value="4" />
+          <entry key="gradle" value="7" />
           <entry key="gradlew" value="1" />
+          <entry key="iml" value="2" />
           <entry key="java" value="17" />
           <entry key="txt" value="2" />
         </counts>
@@ -119,7 +205,8 @@
       <usages-collector id="statistics.file.types.open">
         <counts>
           <entry key="CLASS" value="3" />
-          <entry key="Groovy" value="4" />
+          <entry key="Groovy" value="7" />
+          <entry key="IDEA_MODULE" value="2" />
           <entry key="JAVA" value="17" />
           <entry key="PLAIN_TEXT" value="3" />
         </counts>
@@ -127,7 +214,7 @@
       <usages-collector id="statistics.file.extensions.edit">
         <counts>
           <entry key="class" value="3" />
-          <entry key="gradle" value="652" />
+          <entry key="gradle" value="791" />
           <entry key="java" value="7603" />
           <entry key="txt" value="25" />
         </counts>
@@ -135,7 +222,7 @@
       <usages-collector id="statistics.file.types.edit">
         <counts>
           <entry key="CLASS" value="3" />
-          <entry key="Groovy" value="652" />
+          <entry key="Groovy" value="791" />
           <entry key="JAVA" value="7603" />
           <entry key="PLAIN_TEXT" value="25" />
         </counts>
@@ -144,38 +231,31 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/main/java/com/lab1/VectorSpace.java">
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/settings.gradle">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="602">
-              <caret line="208" column="40" lean-forward="true" selection-start-line="208" selection-start-column="40" selection-end-line="208" selection-end-column="40" />
-              <folding>
-                <element signature="imports" expanded="true" />
-              </folding>
+            <state relative-caret-position="30">
+              <caret line="2" column="15" selection-start-line="2" selection-start-column="15" selection-end-line="2" selection-end-column="15" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/TfIdf/build.gradle">
+          <provider selected="true" editor-type-id="text-editor" />
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/build.gradle">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="270">
-              <caret line="18" column="67" selection-start-line="18" selection-start-column="67" selection-end-line="18" selection-end-column="67" />
+            <state relative-caret-position="240">
+              <caret line="16" column="5" lean-forward="true" selection-start-line="16" selection-start-column="5" selection-end-line="16" selection-end-column="5" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/com/lab1/Stemmer.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="675">
-              <caret line="45" column="6" selection-start-line="45" selection-start-column="6" selection-end-line="45" selection-end-column="6" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/com/lab1/TfIdf.java">
+        <entry file="file://$PROJECT_DIR$/TfIdf/src/main/java/com/tfidf/TfIdf.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="30">
               <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
@@ -184,9 +264,9 @@
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/com/lab1/Main.java">
+        <entry file="file://$PROJECT_DIR$/TfIdf/src/main/java/com/tfidf/Main.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="197">
+            <state relative-caret-position="810">
               <caret line="60" selection-start-line="60" selection-end-line="60" />
               <folding>
                 <element signature="imports" expanded="true" />
@@ -196,7 +276,7 @@
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/com/lab1/Document.java">
+        <entry file="file://$PROJECT_DIR$/TfIdf/src/main/java/com/tfidf/Document.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="30">
               <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
@@ -205,7 +285,7 @@
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/com/lab1/Querry.java">
+        <entry file="file://$PROJECT_DIR$/TfIdf/src/main/java/com/tfidf/Querry.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="30">
               <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
@@ -214,7 +294,7 @@
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/com/lab1/Ranking.java">
+        <entry file="file://$PROJECT_DIR$/TfIdf/src/main/java/com/tfidf/Ranking.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="30">
               <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
@@ -223,7 +303,7 @@
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/com/lab1/VectorTerms.java">
+        <entry file="file://$PROJECT_DIR$/TfIdf/src/main/java/com/tfidf/VectorTerms.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="180">
               <caret line="18" column="37" selection-start-line="18" selection-start-column="37" selection-end-line="18" selection-end-column="37" />
@@ -235,7 +315,7 @@
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/com/lab1/CommandParameters.java">
+        <entry file="file://$PROJECT_DIR$/TfIdf/src/main/java/com/tfidf/CommandParameters.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="60">
               <caret line="4" column="13" selection-start-line="4" selection-start-column="13" selection-end-line="4" selection-end-column="13" />
@@ -286,15 +366,23 @@
         <entry>
           <key>
             <ExternalProjectPojo>
-              <option name="name" value="lab" />
+              <option name="name" value="EZI" />
               <option name="path" value="$PROJECT_DIR$" />
             </ExternalProjectPojo>
           </key>
           <value>
             <list>
               <ExternalProjectPojo>
-                <option name="name" value="lab" />
+                <option name="name" value="EZI" />
                 <option name="path" value="$PROJECT_DIR$" />
+              </ExternalProjectPojo>
+              <ExternalProjectPojo>
+                <option name="name" value=":LSI" />
+                <option name="path" value="$PROJECT_DIR$/LSI" />
+              </ExternalProjectPojo>
+              <ExternalProjectPojo>
+                <option name="name" value=":TfIdf" />
+                <option name="path" value="$PROJECT_DIR$/TfIdf" />
               </ExternalProjectPojo>
             </list>
           </value>
@@ -307,7 +395,7 @@
           <value>
             <list>
               <ExternalTaskPojo>
-                <option name="description" value="Displays the components produced by root project 'lab'. [incubating]" />
+                <option name="description" value="Displays the components produced by root project 'EZI'. [incubating]" />
                 <option name="linkedExternalProjectPath" value="$PROJECT_DIR$" />
                 <option name="name" value="components" />
               </ExternalTaskPojo>
@@ -317,7 +405,7 @@
                 <option name="name" value="buildDependents" />
               </ExternalTaskPojo>
               <ExternalTaskPojo>
-                <option name="description" value="Displays the sub-projects of root project 'lab'." />
+                <option name="description" value="Displays the sub-projects of root project 'EZI'." />
                 <option name="linkedExternalProjectPath" value="$PROJECT_DIR$" />
                 <option name="name" value="projects" />
               </ExternalTaskPojo>
@@ -327,12 +415,12 @@
                 <option name="name" value="classes" />
               </ExternalTaskPojo>
               <ExternalTaskPojo>
-                <option name="description" value="Displays the dependent components of components in root project 'lab'. [incubating]" />
+                <option name="description" value="Displays the dependent components of components in root project 'EZI'. [incubating]" />
                 <option name="linkedExternalProjectPath" value="$PROJECT_DIR$" />
                 <option name="name" value="dependentComponents" />
               </ExternalTaskPojo>
               <ExternalTaskPojo>
-                <option name="description" value="Displays all buildscript dependencies declared in root project 'lab'." />
+                <option name="description" value="Displays all buildscript dependencies declared in root project 'EZI'." />
                 <option name="linkedExternalProjectPath" value="$PROJECT_DIR$" />
                 <option name="name" value="buildEnvironment" />
               </ExternalTaskPojo>
@@ -367,7 +455,7 @@
                 <option name="name" value="jar" />
               </ExternalTaskPojo>
               <ExternalTaskPojo>
-                <option name="description" value="Displays the configuration model of root project 'lab'. [incubating]" />
+                <option name="description" value="Displays the configuration model of root project 'EZI'. [incubating]" />
                 <option name="linkedExternalProjectPath" value="$PROJECT_DIR$" />
                 <option name="name" value="model" />
               </ExternalTaskPojo>
@@ -382,7 +470,7 @@
                 <option name="name" value="processResources" />
               </ExternalTaskPojo>
               <ExternalTaskPojo>
-                <option name="description" value="Displays the tasks runnable from root project 'lab'." />
+                <option name="description" value="Displays the tasks runnable from root project 'EZI' (some of the displayed tasks may belong to subprojects)." />
                 <option name="linkedExternalProjectPath" value="$PROJECT_DIR$" />
                 <option name="name" value="tasks" />
               </ExternalTaskPojo>
@@ -407,7 +495,7 @@
                 <option name="name" value="compileJava" />
               </ExternalTaskPojo>
               <ExternalTaskPojo>
-                <option name="description" value="Displays the insight into a specific dependency in root project 'lab'." />
+                <option name="description" value="Displays the insight into a specific dependency in root project 'EZI'." />
                 <option name="linkedExternalProjectPath" value="$PROJECT_DIR$" />
                 <option name="name" value="dependencyInsight" />
               </ExternalTaskPojo>
@@ -432,7 +520,7 @@
                 <option name="name" value="compileTestJava" />
               </ExternalTaskPojo>
               <ExternalTaskPojo>
-                <option name="description" value="Displays all dependencies declared in root project 'lab'." />
+                <option name="description" value="Displays all dependencies declared in root project 'EZI'." />
                 <option name="linkedExternalProjectPath" value="$PROJECT_DIR$" />
                 <option name="name" value="dependencies" />
               </ExternalTaskPojo>
@@ -475,8 +563,233 @@
                 <option name="name" value="distZip" />
               </ExternalTaskPojo>
               <ExternalTaskPojo>
-                <option name="description" value="Displays the properties of root project 'lab'." />
+                <option name="description" value="Displays the properties of root project 'EZI'." />
                 <option name="linkedExternalProjectPath" value="$PROJECT_DIR$" />
+                <option name="name" value="properties" />
+              </ExternalTaskPojo>
+            </list>
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/LSI">
+          <value>
+            <list>
+              <ExternalTaskPojo>
+                <option name="description" value="Displays the components produced by project ':LSI'. [incubating]" />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/LSI" />
+                <option name="name" value="components" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Displays the sub-projects of project ':LSI'." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/LSI" />
+                <option name="name" value="projects" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Displays the dependent components of components in project ':LSI'. [incubating]" />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/LSI" />
+                <option name="name" value="dependentComponents" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Displays all buildscript dependencies declared in project ':LSI'." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/LSI" />
+                <option name="name" value="buildEnvironment" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Displays the insight into a specific dependency in project ':LSI'." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/LSI" />
+                <option name="name" value="dependencyInsight" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Displays all dependencies declared in project ':LSI'." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/LSI" />
+                <option name="name" value="dependencies" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Displays a help message." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/LSI" />
+                <option name="name" value="help" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Displays the configuration model of project ':LSI'. [incubating]" />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/LSI" />
+                <option name="name" value="model" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Displays the properties of project ':LSI'." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/LSI" />
+                <option name="name" value="properties" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Displays the tasks runnable from project ':LSI'." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/LSI" />
+                <option name="name" value="tasks" />
+              </ExternalTaskPojo>
+            </list>
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/TfIdf">
+          <value>
+            <list>
+              <ExternalTaskPojo>
+                <option name="description" value="Displays the components produced by project ':TfIdf'. [incubating]" />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/TfIdf" />
+                <option name="name" value="components" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Assembles and tests this project and all projects that depend on it." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/TfIdf" />
+                <option name="name" value="buildDependents" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Displays the sub-projects of project ':TfIdf'." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/TfIdf" />
+                <option name="name" value="projects" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Assembles main classes." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/TfIdf" />
+                <option name="name" value="classes" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Displays the dependent components of components in project ':TfIdf'. [incubating]" />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/TfIdf" />
+                <option name="name" value="dependentComponents" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Displays all buildscript dependencies declared in project ':TfIdf'." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/TfIdf" />
+                <option name="name" value="buildEnvironment" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Runs this project as a JVM application" />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/TfIdf" />
+                <option name="name" value="run" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Assembles test classes." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/TfIdf" />
+                <option name="name" value="testClasses" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Generates Javadoc API documentation for the main source code." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/TfIdf" />
+                <option name="name" value="javadoc" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Creates OS specific scripts to run the project as a JVM application." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/TfIdf" />
+                <option name="name" value="startScripts" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Assembles a jar archive containing the main classes." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/TfIdf" />
+                <option name="name" value="jar" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Displays the configuration model of project ':TfIdf'. [incubating]" />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/TfIdf" />
+                <option name="name" value="model" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Installs the project as a distribution as-is." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/TfIdf" />
+                <option name="name" value="installDist" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Processes main resources." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/TfIdf" />
+                <option name="name" value="processResources" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Displays the tasks runnable from project ':TfIdf'." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/TfIdf" />
+                <option name="name" value="tasks" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Assembles the main distributions" />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/TfIdf" />
+                <option name="name" value="assembleDist" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Runs the unit tests." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/TfIdf" />
+                <option name="name" value="test" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Compiles main Java source." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/TfIdf" />
+                <option name="name" value="compileJava" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Displays the insight into a specific dependency in project ':TfIdf'." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/TfIdf" />
+                <option name="name" value="dependencyInsight" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Runs all checks." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/TfIdf" />
+                <option name="name" value="check" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Assembles the outputs of this project." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/TfIdf" />
+                <option name="name" value="assemble" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Deletes the build directory." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/TfIdf" />
+                <option name="name" value="clean" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Compiles test Java source." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/TfIdf" />
+                <option name="name" value="compileTestJava" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Displays all dependencies declared in project ':TfIdf'." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/TfIdf" />
+                <option name="name" value="dependencies" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Processes test resources." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/TfIdf" />
+                <option name="name" value="processTestResources" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Displays a help message." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/TfIdf" />
+                <option name="name" value="help" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Assembles and tests this project." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/TfIdf" />
+                <option name="name" value="build" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Assembles and tests this project and all projects it depends on." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/TfIdf" />
+                <option name="name" value="buildNeeded" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Bundles the project as a distribution." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/TfIdf" />
+                <option name="name" value="distTar" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/TfIdf" />
+                <option name="name" value="copyResourcesJar" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/TfIdf" />
+                <option name="name" value="libs" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Bundles the project as a distribution." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/TfIdf" />
+                <option name="name" value="distZip" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Displays the properties of project ':TfIdf'." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/TfIdf" />
                 <option name="name" value="properties" />
               </ExternalTaskPojo>
             </list>
@@ -486,11 +799,12 @@
     </option>
     <option name="modificationStamps">
       <map>
-        <entry key="$PROJECT_DIR$" value="6159964367000" />
+        <entry key="$PROJECT_DIR$" value="7704775001000" />
         <entry key="$PROJECT_DIR$/.gradle" value="0" />
-        <entry key="$PROJECT_DIR$/build.gradle" value="363497314" />
+        <entry key="$PROJECT_DIR$/TfIdf/build.gradle" value="3125326057" />
+        <entry key="$PROJECT_DIR$/build.gradle" value="4145124617" />
         <entry key="$PROJECT_DIR$/gradle/wrapper/gradle-wrapper.properties" value="2585518924" />
-        <entry key="$PROJECT_DIR$/settings.gradle" value="1777624137" />
+        <entry key="$PROJECT_DIR$/settings.gradle" value="887604980" />
       </map>
     </option>
     <option name="projectBuildClasspath">
@@ -507,9 +821,44 @@
                       </ExternalModuleBuildClasspathPojo>
                     </value>
                   </entry>
+                  <entry key="$PROJECT_DIR$/LSI">
+                    <value>
+                      <ExternalModuleBuildClasspathPojo>
+                        <option name="path" value="$PROJECT_DIR$/LSI" />
+                      </ExternalModuleBuildClasspathPojo>
+                    </value>
+                  </entry>
+                  <entry key="$PROJECT_DIR$/Lsi">
+                    <value>
+                      <ExternalModuleBuildClasspathPojo>
+                        <option name="path" value="$PROJECT_DIR$/Lsi" />
+                      </ExternalModuleBuildClasspathPojo>
+                    </value>
+                  </entry>
+                  <entry key="$PROJECT_DIR$/TfId">
+                    <value>
+                      <ExternalModuleBuildClasspathPojo>
+                        <option name="path" value="$PROJECT_DIR$/TfId" />
+                      </ExternalModuleBuildClasspathPojo>
+                    </value>
+                  </entry>
+                  <entry key="$PROJECT_DIR$/TfIdf">
+                    <value>
+                      <ExternalModuleBuildClasspathPojo>
+                        <option name="path" value="$PROJECT_DIR$/TfIdf" />
+                      </ExternalModuleBuildClasspathPojo>
+                    </value>
+                  </entry>
+                  <entry key="$PROJECT_DIR$/TfIdl">
+                    <value>
+                      <ExternalModuleBuildClasspathPojo>
+                        <option name="path" value="$PROJECT_DIR$/TfIdl" />
+                      </ExternalModuleBuildClasspathPojo>
+                    </value>
+                  </entry>
                 </map>
               </option>
-              <option name="name" value="lab" />
+              <option name="name" value="EZI" />
               <option name="projectBuildClasspath">
                 <list>
                   <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-4.8-all/41c9mvq2w0645xx6nsenaerjl/gradle-4.8/src/resources-s3" />
@@ -688,9 +1037,11 @@
         <option value="$PROJECT_DIR$/src/main/java/Stemmer.java" />
         <option value="$PROJECT_DIR$/src/main/java/com/lab1/main.java" />
         <option value="$PROJECT_DIR$/src/main/java/com/lab1/TfIdf.java" />
-        <option value="$PROJECT_DIR$/build.gradle" />
         <option value="$PROJECT_DIR$/src/main/java/com/lab1/Main.java" />
         <option value="$PROJECT_DIR$/src/main/java/com/lab1/VectorSpace.java" />
+        <option value="$PROJECT_DIR$/settings.gradle" />
+        <option value="$PROJECT_DIR$/TfIdf/build.gradle" />
+        <option value="$PROJECT_DIR$/build.gradle" />
       </list>
     </option>
   </component>
@@ -701,8 +1052,8 @@
     <sorting>DEFINITION_ORDER</sorting>
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="5" />
-    <option name="y" value="24" />
+    <option name="x" value="-2" />
+    <option name="y" value="17" />
     <option name="width" value="1924" />
     <option name="height" value="1065" />
   </component>
@@ -712,7 +1063,7 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="PackagesPane" />
+      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -728,49 +1079,34 @@
             <path>
               <item name="lab" type="b2602c69:ProjectViewProjectNode" />
               <item name="EZI" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
-            </path>
-            <path>
-              <item name="lab" type="b2602c69:ProjectViewProjectNode" />
-              <item name="EZI" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="lab" type="b2602c69:ProjectViewProjectNode" />
-              <item name="EZI" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="lab1" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="lab" type="b2602c69:ProjectViewProjectNode" />
-              <item name="External Libraries" type="cb654da1:ExternalLibrariesNode" />
+              <item name="TfIdf" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
             </path>
           </expand>
           <select />
         </subPane>
       </pane>
-      <pane id="Scope" />
+      <pane id="PackagesPane" />
     </panes>
   </component>
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1540494777777" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1541700502157" />
     <property name="extract.method.default.visibility" value="private" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../kpiotrowski/EZI" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
     <property name="project.structure.last.edited" value="Modules" />
     <property name="project.structure.proportion" value="0.15" />
     <property name="project.structure.side.proportion" value="0.2" />
-    <property name="settings.editor.selected.configurable" value="preferences.JavaFX" />
+    <property name="settings.editor.selected.configurable" value="reference.settingsdialog.project.gradle" />
   </component>
   <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/TfIdf" />
+    </key>
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/TfIdf" />
       <recent name="$PROJECT_DIR$/src/main/resources" />
       <recent name="$PROJECT_DIR$" />
       <recent name="$PROJECT_DIR$/src/main/java" />
@@ -788,15 +1124,33 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Gradle.EZI [jar]">
+  <component name="RunManager" selected="Gradle.EZI [build]">
     <configuration name="EZI" type="Application" factoryName="Application">
-      <option name="MAIN_CLASS_NAME" value="com.lab1.Main" />
-      <module name="lab_main" />
+      <option name="MAIN_CLASS_NAME" value="com.tfidf.Main" />
+      <module name="EZI_main" />
       <option name="PROGRAM_PARAMETERS" value="-d src/main/resources/documents.txt -k src/main/resources/keywords.txt -v" />
       <option name="WORKING_DIRECTORY" value="$MODULE_WORKING_DIR$" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
+    </configuration>
+    <configuration name="EZI [assemble]" type="GradleRunConfiguration" factoryName="Gradle" temporary="true">
+      <ExternalSystemSettings>
+        <option name="executionName" />
+        <option name="externalProjectPath" value="$PROJECT_DIR$" />
+        <option name="externalSystemIdString" value="GRADLE" />
+        <option name="scriptParameters" value="" />
+        <option name="taskDescriptions">
+          <list />
+        </option>
+        <option name="taskNames">
+          <list>
+            <option value="assemble" />
+          </list>
+        </option>
+        <option name="vmOptions" value="" />
+      </ExternalSystemSettings>
+      <method v="2" />
     </configuration>
     <configuration name="EZI [build]" type="GradleRunConfiguration" factoryName="Gradle" temporary="true">
       <ExternalSystemSettings>
@@ -870,24 +1224,6 @@
       </ExternalSystemSettings>
       <method v="2" />
     </configuration>
-    <configuration name="EZI [libs]" type="GradleRunConfiguration" factoryName="Gradle" temporary="true">
-      <ExternalSystemSettings>
-        <option name="executionName" />
-        <option name="externalProjectPath" value="$PROJECT_DIR$" />
-        <option name="externalSystemIdString" value="GRADLE" />
-        <option name="scriptParameters" value="" />
-        <option name="taskDescriptions">
-          <list />
-        </option>
-        <option name="taskNames">
-          <list>
-            <option value="libs" />
-          </list>
-        </option>
-        <option name="vmOptions" value="" />
-      </ExternalSystemSettings>
-      <method v="2" />
-    </configuration>
     <configuration name="EZi" type="GradleRunConfiguration" factoryName="Gradle">
       <ExternalSystemSettings>
         <option name="executionName" />
@@ -926,18 +1262,18 @@
       <item itemvalue="Application.EZI" />
       <item itemvalue="Gradle.EZi" />
       <item itemvalue="Gradle.EZI [build]" />
-      <item itemvalue="Gradle.EZI [libs]" />
       <item itemvalue="Gradle.EZI [jar]" />
       <item itemvalue="Gradle.EZI [fatJar]" />
       <item itemvalue="Gradle.EZI [copyResources]" />
+      <item itemvalue="Gradle.EZI [assemble]" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Gradle.EZI [assemble]" />
         <item itemvalue="Gradle.EZI [build]" />
         <item itemvalue="Gradle.EZI [copyResources]" />
         <item itemvalue="Gradle.EZI [fatJar]" />
         <item itemvalue="Gradle.EZI [jar]" />
-        <item itemvalue="Gradle.EZI [libs]" />
       </list>
     </recent_temporary>
   </component>
@@ -954,12 +1290,16 @@
       <workItem from="1539744735308" duration="33058000" />
       <workItem from="1539982847940" duration="10034000" />
       <workItem from="1540470099704" duration="8725000" />
-      <workItem from="1540830797921" duration="869000" />
+      <workItem from="1540830797921" duration="1605000" />
+      <workItem from="1540832434026" duration="899000" />
+      <workItem from="1541527343114" duration="684000" />
+      <workItem from="1541678851481" duration="4919000" />
+      <workItem from="1542651742992" duration="943000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="52686000" />
+    <option name="totallyTimeSpent" value="60867000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -971,9 +1311,9 @@
     </todo-panel>
   </component>
   <component name="ToolWindowManager">
-    <frame x="5" y="24" width="1924" height="1065" extended-state="0" />
+    <frame x="-2" y="17" width="1924" height="1065" extended-state="0" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.21344717" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.2230523" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Designer" order="2" />
       <window_info id="Image Layers" order="3" />
@@ -981,13 +1321,13 @@
       <window_info id="Favorites" order="5" side_tool="true" />
       <window_info id="Capture Tool" order="6" />
       <window_info anchor="bottom" id="Message" order="0" />
-      <window_info anchor="bottom" id="Find" order="1" weight="0.32903227" />
-      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.2605932" />
+      <window_info anchor="bottom" id="Find" order="1" weight="0.32838982" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.2595339" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.39724576" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" weight="0.32944915" />
-      <window_info anchor="bottom" id="Build" order="7" weight="0.26800847" />
+      <window_info active="true" anchor="bottom" id="Build" order="7" visible="true" weight="0.26800847" />
       <window_info anchor="bottom" id="Event Log" order="8" side_tool="true" />
       <window_info anchor="bottom" id="Messages" order="9" />
       <window_info anchor="bottom" id="Database Changes" order="10" show_stripe_button="false" />
@@ -999,7 +1339,7 @@
       <window_info anchor="right" id="Palette" order="3" />
       <window_info anchor="right" id="Capture Analysis" order="4" />
       <window_info anchor="right" id="Maven Projects" order="5" />
-      <window_info anchor="right" id="Gradle" order="6" visible="true" weight="0.3655283" />
+      <window_info anchor="right" id="Gradle" order="6" visible="true" weight="0.15048026" />
       <window_info anchor="right" id="Database" order="7" />
       <window_info anchor="right" id="Palette&#9;" order="8" />
       <window_info anchor="right" id="Theme Preview" order="9" />
@@ -1046,19 +1386,19 @@
     <breakpoint-manager>
       <breakpoints>
         <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/main/java/com/lab1/Main.java</url>
+          <url>file://$PROJECT_DIR$/TfIdf/src/main/java/com/tfidf/Main.java</url>
           <line>60</line>
           <properties />
           <option name="timeStamp" value="1" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/main/java/com/lab1/Main.java</url>
+          <url>file://$PROJECT_DIR$/TfIdf/src/main/java/com/tfidf/Main.java</url>
           <line>61</line>
           <properties />
           <option name="timeStamp" value="2" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/main/java/com/lab1/VectorSpace.java</url>
+          <url>file://$PROJECT_DIR$/TfIdf/src/main/java/com/tfidf/VectorSpace.java</url>
           <line>180</line>
           <properties />
           <option name="timeStamp" value="3" />
@@ -1084,7 +1424,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/resources/keywords.txt">
+    <entry file="file://$PROJECT_DIR$/TfIdf/src/main/resources/keywords.txt">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
     <entry file="jrt:///usr/lib/jvm/java-10-openjdk!/java.base/jdk/internal/loader/BuiltinClassLoader.class">
@@ -1094,48 +1434,76 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/settings.gradle">
+    <entry file="file://$PROJECT_DIR$/TfIdf/src/main/resources/documents.txt">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/resources/documents.txt">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/build.gradle">
+    <entry file="file://$PROJECT_DIR$/TfIdf/src/main/java/com/tfidf/VectorSpace.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="270">
-          <caret line="18" column="67" selection-start-line="18" selection-start-column="67" selection-end-line="18" selection-end-column="67" />
+        <state>
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/lab1/Stemmer.java">
+    <entry file="file://$PROJECT_DIR$/TfIdf/src/main/java/com/tfidf/Stemmer.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="675">
           <caret line="45" column="6" selection-start-line="45" selection-start-column="6" selection-end-line="45" selection-end-column="6" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/lab1/TfIdf.java">
+    <entry file="file://$PROJECT_DIR$/TfIdf.iml" />
+    <entry file="file://$PROJECT_DIR$/TfIdf/TfIdf.iml" />
+    <entry file="file://$PROJECT_DIR$/settings.gradle">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="30">
+          <caret line="2" column="15" selection-start-line="2" selection-start-column="15" selection-end-line="2" selection-end-column="15" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/TfIdf/build.gradle">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/TfIdf/src/main/java/com/tfidf/TfIdf.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="30">
           <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/lab1/Document.java">
+    <entry file="file://$PROJECT_DIR$/TfIdf/src/main/java/com/tfidf/Main.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="810">
+          <caret line="60" selection-start-line="60" selection-end-line="60" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/TfIdf/src/main/java/com/tfidf/Document.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="30">
           <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/lab1/Ranking.java">
+    <entry file="file://$PROJECT_DIR$/TfIdf/src/main/java/com/tfidf/Querry.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="30">
           <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/lab1/VectorTerms.java">
+    <entry file="file://$PROJECT_DIR$/TfIdf/src/main/java/com/tfidf/Ranking.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="30">
+          <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/TfIdf/src/main/java/com/tfidf/VectorTerms.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="180">
           <caret line="18" column="37" selection-start-line="18" selection-start-column="37" selection-end-line="18" selection-end-column="37" />
@@ -1145,37 +1513,17 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/lab1/CommandParameters.java">
+    <entry file="file://$PROJECT_DIR$/TfIdf/src/main/java/com/tfidf/CommandParameters.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="60">
           <caret line="4" column="13" selection-start-line="4" selection-start-column="13" selection-end-line="4" selection-end-column="13" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/lab1/Querry.java">
+    <entry file="file://$PROJECT_DIR$/build.gradle">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="30">
-          <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/lab1/Main.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="197">
-          <caret line="60" selection-start-line="60" selection-end-line="60" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/lab1/VectorSpace.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="602">
-          <caret line="208" column="40" lean-forward="true" selection-start-line="208" selection-start-column="40" selection-end-line="208" selection-end-column="40" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
+        <state relative-caret-position="240">
+          <caret line="16" column="5" lean-forward="true" selection-start-line="16" selection-start-column="5" selection-end-line="16" selection-end-column="5" />
         </state>
       </provider>
     </entry>
@@ -1234,12 +1582,24 @@
       </state>
       <state key="ModuleStructureConfigurable.UI">
         <settings>
-          <last-edited>lab_main|lab</last-edited>
+          <last-edited>EZI_main|EZI</last-edited>
           <splitter-proportions>
             <option name="proportions">
               <list>
                 <option value="0.2" />
                 <option value="0.6" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ProjectJDKs.UI">
+        <settings>
+          <last-edited>1.8</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
               </list>
             </option>
           </splitter-proportions>
